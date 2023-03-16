@@ -6,8 +6,8 @@ subtitle: Why you'd want to go on a date with me
 
 
 
-- I rock a great mustache sssss
-- I'm extremely loyal to my family
+hi this is atorita
+
 
 What else do you need?
 
