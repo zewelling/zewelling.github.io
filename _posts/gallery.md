@@ -5,8 +5,10 @@ subtitle: paintings,sketches,etc
 cover-img: /assets/img/vol1.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: []
+tags: [1]
 ---
+
+
 ![EP1](../assets/img/navbar.jpg "EP1")
 
 ![EP2](../assets/img/EP2.png "EP2"){: .mx-auto.d-block :}
