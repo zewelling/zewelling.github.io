@@ -3,9 +3,9 @@ layout: post
 title: VOL.1 
 subtitle: paintings,sketches,etc
 cover-img: /assets/img/vol1.jpg
-# thumbnail-img: /assets/img/thumb.png
-# share-img: /assets/img/path.jpg
-# tags: [books, test]
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: []
 ---
 ![EP1](../assets/img/navbar.jpg "EP1")
 
