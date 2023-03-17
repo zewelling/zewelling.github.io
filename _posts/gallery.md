@@ -1,13 +1,13 @@
 ---
 layout: post
-title: VOL.1 
+title: VOL1 
 subtitle: paintings,sketches,etc
-cover-img: /assets/img/vol1.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [1]
+cover-img: ../assets/img/vol1.jpg
+# thumbnail-img: /assets/img/thumb.png
+# share-img: /assets/img/path.jpg
+tags: [test]
 ---
-
+# why this dont work
 
 ![EP1](../assets/img/navbar.jpg "EP1")
 
