@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:build imagnation or destory own's sleeeptime
 ---
+![EP1](assets/img/navbar.jpg "EP1")
+there is nothing to see here now
+<!-- hi! this is atorita, a junior undergraduate in Computer Science and Technology at SHTech University.My area of expertise lies in Computer Vision and Computer Graphics. I’m familar with contemporary Deep Learning frameworks such as MLP, CNN, RNN, AE, GAN, and NeRF, alongside rendering techniques like rasterization and surface/volume rendering. -->
 
 
 
-hi this is atorita
-
-
-What else do you need? i dont need anything
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
