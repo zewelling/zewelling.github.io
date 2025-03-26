@@ -7,8 +7,9 @@
 
 ############################
 # --- Required options --- #
-############################
-
+# ############################
+exclude:
+  - ELC/dist
 # Name of website
 title: ATORITA RADIO STATION
 
